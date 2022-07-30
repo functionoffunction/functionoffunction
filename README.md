@@ -2,7 +2,7 @@
 
 I'm Timi, the CTO at [@farmz2u](https://twitter.com/farmz2u) and [@rebasive](https://twitter.com/rebasive)
 
-I am software Engineer from Lagos, Nigeri🇳🇬
+I am a software Engineer from Lagos, Nigeri🇳🇬
 
 I build stuffs with Python, R, TensorFlow, Linux, C/C++, JavaScript(Mainly react), Java, MQL4 and others
 
