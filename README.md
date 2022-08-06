@@ -13,4 +13,4 @@ You can find me on:
 * [Twitter](https://twitter.com/timiakogun)
 * [Gitlab](https://gitlab.com/functionoffunction)
 * [Github](https://gitlab.com/functionoffunction)
-* [LinkedIn](https://linkedin.com/in/akoguntime)
+* [LinkedIn](https://linkedin.com/in/akoguntimi)
