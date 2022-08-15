@@ -1,4 +1,4 @@
-# Hello Human! 🖖
+# Hello Human! 👋 
 
 I'm Timi, the CTO at [@rebasive](https://twitter.com/rebasive) and [@farmz2u](https://twitter.com/farmz2u)
 
