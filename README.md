@@ -1,6 +1,6 @@
 # Hello Human! 👋 
 
-I'm Timi, the CTO at [@rebasive](https://twitter.com/rebasive) and [@farmz2u](https://twitter.com/farmz2u)
+I'm Timi, the CTO at [@farmz2u](https://twitter.com/farmz2u)
 
 I am a software Engineer from Lagos, Nigeria🇳🇬
 
