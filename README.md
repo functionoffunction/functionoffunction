@@ -2,7 +2,7 @@
 
 I'm Timi, the CTO at [@farmz2u](https://twitter.com/farmz2u)
 
-I am a software Engineer from Lagos, Nigeria🇳🇬
+I am from Lagos 🇳🇬
 
 I build stuffs with Python, R, TensorFlow, Linux, C/C++, JavaScript, Java, MQL4 and others
 
